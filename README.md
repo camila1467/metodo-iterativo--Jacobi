@@ -1,1 +1,1 @@
-# Metodo-de-Gauss-Jacobi
+# Metodo-de-Gauss-Jacob
